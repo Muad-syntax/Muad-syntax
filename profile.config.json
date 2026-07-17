@@ -50,19 +50,19 @@
       "heroLabel": "Active system"
     },
     {
-      "name": "Project One",
-      "url": "https://github.com/Muad-syntax/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
+      "name": "BoxShadowGenerator",
+      "url": "https://github.com/Muad-syntax/BoxShadowGenerator.git",
+      "homepage": "https://muad-syntax.github.io/BoxShadowGenerator/",
+      "focus": "Box Shadow Generator for using CSS",
+      "summary": "makes it easy to change the appearance of the box shadow for CSS use",
       "heroLabel": "Primary build"
     },
     {
-      "name": "Project One",
-      "url": "https://github.com/Muad-syntax/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
+      "name": "game-javascript",
+      "url": "https://github.com/Muad-syntax/game-javascript.git",
+      "homepage": "https://muad-syntax.github.io/game-javascript/ular/ular.html",
+      "focus": "Game snake javascript",
+      "summary": "create a snake game using javascript",
       "heroLabel": "Primary build"
     }
   ],

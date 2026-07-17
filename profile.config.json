@@ -1,21 +1,21 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "art-syntax",
+    "username": "Muad-syntax",
+    "headline": "Web Designer",
+    "affiliation": "SMK TI MUHAMMADIYAH CIKAMPEK",
+    "location": "Karawang, Indonesia",
+    "status": "Learning",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
+      "I am a student who is pursuing a career as a web designer.",
       "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
     ]
   },
   "research": {
-    "primary": "AI Agents",
+    "primary": "Web Developer",
     "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
+    "themes": "evaluation",
     "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
   },
   "focus": [
@@ -34,36 +34,58 @@
   ],
   "projects": [
     {
+      "name": "MusicPlay",
+      "url": "https://github.com/Muad-syntax/MusicPlay.git",
+      "homepage": "https://muad-syntax.github.io/MusicPlay/",
+      "focus": "Music Adjuster",
+      "summary": "Website-based music player application",
+      "heroLabel": "Primary build"
+    },
+    {
+      "name": "javascript",
+      "url": "https://github.com/Muad-syntax/javascript.git",
+      "homepage": "https://muad-syntax.github.io/javascript/HitungBMI/inputTestBMI.html",
+      "focus": "my learning repository",
+      "summary": "Learning during school about basic JavaScript",
+      "heroLabel": "Active system"
+    },
+    {
       "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "url": "https://github.com/Muad-syntax/project-one",
       "homepage": "",
       "focus": "Primary project focus",
       "summary": "A concise explanation of what the project does and why it matters.",
       "heroLabel": "Primary build"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Project One",
+      "url": "https://github.com/Muad-syntax/project-one",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Primary project focus",
+      "summary": "A concise explanation of what the project does and why it matters.",
+      "heroLabel": "Primary build"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
+    "Javascript",
     "Python",
-    "PostgreSQL",
-    "Playwright"
+    "PHP",
+    "Java"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "Muad-syntax",
+      "url": "https://github.com/Muad-syntax",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "Instagram",
+      "value": "Visit",
+      "url": "https://www.instagram.com/ahmad_m363/",
+      "logo": "ahmad_m363",
+      "color": "0891B2"
     }
   ],
   "activity": {

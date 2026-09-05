@@ -48,12 +48,12 @@ I am interested in systems that can observe state, use tools, evaluate outcomes,
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Sep 3, 2026: pushed 1 commit to [Muad-syntax/siabsen-app](https://github.com/Muad-syntax/siabsen-app).
+- Sep 3, 2026: created a branch in [Muad-syntax/siabsen-app](https://github.com/Muad-syntax/siabsen-app).
 - Sep 1, 2026: pushed 1 commit to [Muad-syntax/new-laravel](https://github.com/Muad-syntax/new-laravel).
 - Sep 1, 2026: created a branch in [Muad-syntax/new-laravel](https://github.com/Muad-syntax/new-laravel).
 - Aug 29, 2026: created a branch in [Muad-syntax/porto-svelte](https://github.com/Muad-syntax/porto-svelte).
 - Aug 29, 2026: pushed 1 commit to [Muad-syntax/portofolio-vue](https://github.com/Muad-syntax/portofolio-vue).
-- Aug 29, 2026: created a branch in [Muad-syntax/portofolio-vue](https://github.com/Muad-syntax/portofolio-vue).
-- Aug 28, 2026: created a branch in [Muad-syntax/siabsen](https://github.com/Muad-syntax/siabsen).
 <!-- AUTO:ACTIVITY:END -->
 
 ---

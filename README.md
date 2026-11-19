@@ -48,12 +48,12 @@ I am interested in systems that can observe state, use tools, evaluate outcomes,
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 17, 2026: pushed 1 commit to [Muad-syntax/learn-rest-api](https://github.com/Muad-syntax/learn-rest-api).
 - Nov 16, 2026: created a branch in [Muad-syntax/learn-rest-api](https://github.com/Muad-syntax/learn-rest-api).
 - Nov 13, 2026: pushed 1 commit to [Muad-syntax/javascript-oop](https://github.com/Muad-syntax/javascript-oop).
 - Nov 6, 2026: pushed 1 commit to [Muad-syntax/uler-piton](https://github.com/Muad-syntax/uler-piton).
 - Nov 5, 2026: pushed 1 commit to [Muad-syntax/javascript](https://github.com/Muad-syntax/javascript).
 - Nov 2, 2026: created a branch in [Muad-syntax/javascript-oop](https://github.com/Muad-syntax/javascript-oop).
-- Oct 28, 2026: pushed 1 commit to [Muad-syntax/python-oop](https://github.com/Muad-syntax/python-oop).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
